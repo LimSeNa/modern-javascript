@@ -9,3 +9,4 @@
 [03장. 자바스크립트 개발 환경과 실행 방법](https://ssena.notion.site/03-9637a5ba25314087a9e08deec3be7798)<br />
 [04장. 변수](https://ssena.notion.site/04-ac063fd83e804582818fd44b7b75d72e)<br />
 [05장. 표현식과 문](https://ssena.notion.site/05-c3f4edd4354a4002a597d8444711615e)<br />
+[06장. 데이터 타입](https://ssena.notion.site/06-d63c99a2203c47619bbd6bf095aa930a)<br />
