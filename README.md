@@ -1,9 +1,11 @@
 # modern-javascript
 자바스크립트 학습 내용 정리 및 예제 코드 저장소
-<br />
-<br />
+<br>
+<br>
 ### 📚 교재
-- 모던 자바스크립트 Deep Dive ・ 이웅모 지음                  
+- 모던 자바스크립트 Deep Dive ・ 이웅모 지음
+<br>
+<br>
 ### ✏️ 정리  
 - [프로그래밍](https://ssena.notion.site/01-57a827c9adfe4f2d8b49ab4115bf9410)<br />
 - [자바스크립트란?](https://ssena.notion.site/02-27a88d3f74f44f1ca149b4db7fa62ab7)<br />
