@@ -13,3 +13,4 @@
 - [데이터 타입](https://ssena.notion.site/06-d63c99a2203c47619bbd6bf095aa930a)<br />
 - [연산자](https://ssena.notion.site/07-b8c493fff648454bb17d4082fa16171d)<br />
 - [제어문](https://ssena.notion.site/08-715cb30808e54cf3b89a666db143a0a5)<br />
+- [타입 변환과 단축 평가](https://ssena.notion.site/09-ef46c2e45ef944a98d8ba8fbf33a4464)<br />
