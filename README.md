@@ -17,3 +17,4 @@
 - [객체 리터럴](https://ssena.notion.site/10-13ef3bcc9280466782ec57472bf276b1)<br>
 - [원시 값과 객체의 비교](https://ssena.notion.site/11-45a6b8808b924867a98b173140b85c32)<br>
 - [함수](https://ssena.notion.site/12-a9ed8aabb0284e528db2aacdde18d63b)<br>
+- [스코프](https://ssena.notion.site/13-6203a071b81f4fc8b3219eb88caa587c)<br>
