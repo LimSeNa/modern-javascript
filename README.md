@@ -16,3 +16,4 @@
 - [타입 변환과 단축 평가](https://ssena.notion.site/09-ef46c2e45ef944a98d8ba8fbf33a4464)<br>
 - [객체 리터럴](https://ssena.notion.site/10-13ef3bcc9280466782ec57472bf276b1)<br>
 - [원시 값과 객체의 비교](https://ssena.notion.site/11-45a6b8808b924867a98b173140b85c32)<br>
+- [함수](https://ssena.notion.site/12-a9ed8aabb0284e528db2aacdde18d63b)<br>
