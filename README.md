@@ -19,3 +19,4 @@
 - [함수](https://ssena.notion.site/12-a9ed8aabb0284e528db2aacdde18d63b)<br>
 - [스코프](https://ssena.notion.site/13-6203a071b81f4fc8b3219eb88caa587c)<br>
 - [전역 변수의 문제점](https://ssena.notion.site/14-4681ee968a034db88b6e84ec1c35dead)<br>
+- [let, const 키워드와 블록 레벨 스코프](https://ssena.notion.site/15-let-const-3433b78591d544a787461b05da28b6ab)<br>
