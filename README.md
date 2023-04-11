@@ -2,8 +2,11 @@
 자바스크립트 학습 내용 정리 및 예제 코드 저장소
 <br>
 <br>
+
 ### 📚 교재
-- 모던 자바스크립트 Deep Dive ・ 이웅모 지음<br>
+- 모던 자바스크립트 Deep Dive ・ 이웅모 지음
+<br>
+
 ### ✏️ 정리  
 - [프로그래밍](https://ssena.notion.site/01-57a827c9adfe4f2d8b49ab4115bf9410)<br>
 - [자바스크립트란?](https://ssena.notion.site/02-27a88d3f74f44f1ca149b4db7fa62ab7)<br>
@@ -20,3 +23,4 @@
 - [스코프](https://ssena.notion.site/13-6203a071b81f4fc8b3219eb88caa587c)<br>
 - [전역 변수의 문제점](https://ssena.notion.site/14-4681ee968a034db88b6e84ec1c35dead)<br>
 - [let, const 키워드와 블록 레벨 스코프](https://ssena.notion.site/15-let-const-3433b78591d544a787461b05da28b6ab)<br>
+- [프로퍼티 어트리뷰트](https://ssena.notion.site/16-1c29695b0e1848e7a4288af3a01ad3d2)<br>
