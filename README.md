@@ -24,3 +24,4 @@
 - [전역 변수의 문제점](https://ssena.notion.site/14-4681ee968a034db88b6e84ec1c35dead)<br>
 - [let, const 키워드와 블록 레벨 스코프](https://ssena.notion.site/15-let-const-3433b78591d544a787461b05da28b6ab)<br>
 - [프로퍼티 어트리뷰트](https://ssena.notion.site/16-1c29695b0e1848e7a4288af3a01ad3d2)<br>
+- [생성자 함수에 의한 객체 생성](https://ssena.notion.site/17-3378b9d3969c4597a4f53b2d8ef8dcde)<br>
