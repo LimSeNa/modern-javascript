@@ -26,3 +26,4 @@
 - [프로퍼티 어트리뷰트](https://ssena.notion.site/16-1c29695b0e1848e7a4288af3a01ad3d2)<br>
 - [생성자 함수에 의한 객체 생성](https://ssena.notion.site/17-3378b9d3969c4597a4f53b2d8ef8dcde)<br>
 - [함수와 일급 객체](https://ssena.notion.site/18-82556bcb9c58474482cda37a77b37707)<br>
+- [strict mode](https://ssena.notion.site/20-strict-mode-a9de647fbb764efd94ca2e449a39f4a4)<br>
