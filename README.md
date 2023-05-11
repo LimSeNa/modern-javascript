@@ -6,6 +6,7 @@
 ### 📚 교재
 - 모던 자바스크립트 Deep Dive ・ 이웅모 지음
 <br>
+<br>
 
 ### ✏️ 정리  
 - [프로그래밍](https://ssena.notion.site/01-57a827c9adfe4f2d8b49ab4115bf9410)<br>
@@ -28,3 +29,4 @@
 - [함수와 일급 객체](https://ssena.notion.site/18-82556bcb9c58474482cda37a77b37707)<br>
 - [프로토타입](https://ssena.notion.site/19-b26b4bfa686041499f3101f73facccb9)<br>
 - [strict mode](https://ssena.notion.site/20-strict-mode-a9de647fbb764efd94ca2e449a39f4a4)<br>
+- [빌트인 객체](https://ssena.notion.site/21-bfe6089f5d35472da3289037a2a03f1e)<br>
