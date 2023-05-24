@@ -31,3 +31,4 @@
 - [strict mode](https://ssena.notion.site/20-strict-mode-a9de647fbb764efd94ca2e449a39f4a4)<br>
 - [빌트인 객체](https://ssena.notion.site/21-bfe6089f5d35472da3289037a2a03f1e)<br>
 - [this](https://ssena.notion.site/22-this-daa78b914e0543bab8d3e0a8abffe57a)<br>
+- [실행 컨텍스트](https://ssena.notion.site/23-b797df793aa64a28a34113368d48a6f8)<br>
