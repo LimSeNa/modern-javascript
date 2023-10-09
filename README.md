@@ -33,3 +33,4 @@
 - [this](https://ssena.notion.site/22-this-daa78b914e0543bab8d3e0a8abffe57a)<br>
 - [실행 컨텍스트](https://ssena.notion.site/23-b797df793aa64a28a34113368d48a6f8)<br>
 - [클로저](https://ssena.notion.site/24-3f5281ba0a9248b599cafe100d8a5940)<br>
+- [ES6 함수의 추가 기능](https://ssena.notion.site/26-ES6-b8bd8efa03c84934a426b809398bc6d3?pvs=4)<br>
