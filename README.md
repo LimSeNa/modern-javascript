@@ -36,3 +36,4 @@
 - [ES6 함수의 추가 기능](https://ssena.notion.site/26-ES6-b8bd8efa03c84934a426b809398bc6d3?pvs=4)<br>
 - [배열](https://ssena.notion.site/27-4792af014687460baf962b7c805fd248?pvs=4)<br>
 - [Number](https://ssena.notion.site/28-Number-d0c72eddb30445909dfddf7b0ed655b3?pvs=4)<br>
+- [Math](https://ssena.notion.site/29-Math-0c24e50f56094ce191651804bfd0df75?pvs=4)<br>
