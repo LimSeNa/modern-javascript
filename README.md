@@ -40,3 +40,4 @@
 - [Date](https://ssena.notion.site/30-Date-3c4de19b3ec14fc89aee94160765642e?pvs=4)<br>
 - [RegExp](https://ssena.notion.site/31-RegExp-0486cd18a9b749d6a39ee62fcb2d2ad0?pvs=4)<br>
 - [String](https://ssena.notion.site/32-String-2c19c2fa4d554a5a900f35dd95ca8868?pvs=4)<br>
+- [7번째 데이터 타입 Symbol](https://ssena.notion.site/33-7-Symbol-e9bfd8440db6417a9675231d3f9a799a?pvs=4)<br>
