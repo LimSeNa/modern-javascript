@@ -41,3 +41,4 @@
 - [RegExp](https://ssena.notion.site/31-RegExp-0486cd18a9b749d6a39ee62fcb2d2ad0?pvs=4)<br>
 - [String](https://ssena.notion.site/32-String-2c19c2fa4d554a5a900f35dd95ca8868?pvs=4)<br>
 - [7번째 데이터 타입 Symbol](https://ssena.notion.site/33-7-Symbol-e9bfd8440db6417a9675231d3f9a799a?pvs=4)<br>
+- [이터러블](https://ssena.notion.site/22-this-daa78b914e0543bab8d3e0a8abffe57a?pvs=4)<br>
