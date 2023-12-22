@@ -42,3 +42,4 @@
 - [String](https://ssena.notion.site/32-String-2c19c2fa4d554a5a900f35dd95ca8868?pvs=4)<br>
 - [7번째 데이터 타입 Symbol](https://ssena.notion.site/33-7-Symbol-e9bfd8440db6417a9675231d3f9a799a?pvs=4)<br>
 - [이터러블](https://ssena.notion.site/22-this-daa78b914e0543bab8d3e0a8abffe57a?pvs=4)<br>
+- [스프레드 문법](https://ssena.notion.site/35-4c9abf619cac4677b345b344b82b2865?pvs=4)<br>
