@@ -43,3 +43,4 @@
 - [7번째 데이터 타입 Symbol](https://ssena.notion.site/33-7-Symbol-e9bfd8440db6417a9675231d3f9a799a?pvs=4)<br>
 - [이터러블](https://ssena.notion.site/22-this-daa78b914e0543bab8d3e0a8abffe57a?pvs=4)<br>
 - [스프레드 문법](https://ssena.notion.site/35-4c9abf619cac4677b345b344b82b2865?pvs=4)<br>
+- [디스트럭처링 할당](https://ssena.notion.site/36-e4b56a4c5cb44f7c81cd30d1f6ee39ca?pvs=4)<br>
