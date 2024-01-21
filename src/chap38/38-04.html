@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script>
+        const $apple = document.getElementById('apple');
+        $apple.style.color = 'red'; // TypeError: Cannot read property 'style' of null
+    </script>
+</head>
+<body>
+<ul>
+    <li id="apple">Apple</li>
+    <li id="banana">Banana</li>
+    <li id="orange">Orange</li>
+</ul>
+</body>
+</html>
