@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<ul>
+    <li id="apple">Apple</li>
+    <li id="banana">Banana</li>
+    <li id="orange">Orange</li>
+</ul>
+<ul>
+    <li>HTML</li>
+</ul>
+<script>
+    // 태그 이름이 li인 요소 노드를 모두 탐색하여 반환
+    const $elems = document.getElementsByTagName('li');
+
+    // 취득한 모든 요소 노드의 style.color 프로퍼티 값을 변경
+    // HTMLCollection 객체를 배열로 변환하여 순환하며 color 프로퍼티 값을 변경
+    [...$elems].forEach(elem => { elem.style.color = 'red' });
+</script>
+</body>
+</html>
