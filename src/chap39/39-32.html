@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <ul id="fruits">
+        <li class="apple">Apple</li>
+        <li class="banana">Banana</li>
+        <li class="orange">Orange</li>
+    </ul>
+</body>
+<script>
+    // 노드 탐색의 기점이 되는 .banana 요소 노드를 취득
+    const $banana = document.getElementById('.banana');
+
+    // .banana 요소 노드의 부모 노드를 탐색
+    console.log($banana.parentNode); // ul#fruits
+</script>
+</html>

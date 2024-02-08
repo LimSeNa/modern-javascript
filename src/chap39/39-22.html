@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // querySelectorAll 메서드는 DOM 컬렉션 객체인 NodeList를 반환
+    const $elems = document.querySelectorAll('.red');
+
+    // NodeList 객체는 NodeList.prototype.forEach 메서드를 상속받아 사용할 수 있음
+    $elems.forEach(elem => elem.className = 'blue');
+</script>
+</body>
+</html>

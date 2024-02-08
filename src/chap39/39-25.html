@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <ul id="fruits">
+    <li>Apple</li>
+    <li>Banana</li>
+  </ul>
+  <script>
+    const $fruits = document.getElementById('fruits');
+
+    // childNodes 프로퍼티는 NodeList 객체(live)를 반환
+    const {childNodes} = $fruits;
+    console.log(childNodes instanceof NodeList); // true
+
+    // $fruits 요소의 자식 노드는 공백 텍스트 노드를 포함해 모두 5개
+    console.log(childNodes); // NodeList(5) [text, li, text, li, tet]
+
+    for (let i = 0; i < childNodes.length; i++) {
+      // removeChild 메서드는 $fruits 요소의 자식 노드를 DOM에서 삭제
+      // removeChild 메서드가 호출될 때마다 NodeList 객체인 childNodes가 실시간으로 변경
+      $fruits.removeChild(childNodes[i]);
+    }
+
+    // 예상과 다르게 $fruits 요소의 모든 자식 노드가 삭제되지 않음
+    console.log(childNodes); // NodeList(2) [li, li]
+  </script>
+</body>
+</html>

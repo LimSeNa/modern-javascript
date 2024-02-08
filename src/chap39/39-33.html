@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <ul id="fruits">
+        <li class="apple">Apple</li>
+        <li class="banana">Banana</li>
+        <li class="orange">Orange</li>
+    </ul>
+</body>
+<script>
+    // 노드 탐색의 기점이 되는 #fruits 요소 노드를 취득
+    const $fruits = document.getElementById('fruits');
+
+    // #fruits 요소의 첫 번째 자식 노드를 탐색
+    // firstChild 프로퍼티는 요소 노드뿐만 아니라 텍스트 노드를 반환할 수도 있음
+    const {firstChild} = $fruits;
+    console.log($fruits.firstChild); // #text
+
+    // #fruits 요소의 첫 번째 자식 노드의 다음 형제 노드를 탐색
+    // nextSibling 프로퍼티는 요소 노드뿐만 아니라 텍스트 노드를 반환할 수 있음
+    const {nextSibling} = firstChild;
+    console.log(nextSibling); // li.apple
+
+    // li.apple 요소의 이전 형제 노드를 탐색
+    // previousSibling 프로퍼티는 요소 노드뿐만 아니라 텍스트 노드르 반환할 수 있음
+    const {previousSibling} = nextSibling;
+    console.log(previousSibling); // #text
+
+    // #fruits 요소의 첫 번째 자식 노드를 탐색
+    // firstElementChild 프로퍼티는 요소 노드만 반환
+    const {firstElementChild} = $fruits;
+    console.log(firstElementChild); // li.apple
+
+    // #fruits 요소의 첫 번째 자식 요소 노드의 다음 형제 노드를 탐색
+    // nextElementSibling 프로퍼티는 요소 노드만 반환
+    const {nextElementSibling} = firstElementChild;
+    console.log(nextElementSibling); // li.banana
+
+    // li.banana 요소의 이전 형제 요소 노드를 탐색
+    // previousElementSibling 프로퍼티는 요소 노드만 반환
+    const {previousElementSibling} = nextElementSibling;
+    console.log(previousElementSibling); // li.apple
+</script>
+</html>
