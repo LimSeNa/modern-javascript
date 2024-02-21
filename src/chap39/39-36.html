@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <div id="foo">Hello</div>
+</body>
+<script>
+  // 1. #foo 요소 노드의 자식 노드인 텍스트 노드를 취득
+  const $textNode = document.getElementById('foo').firstChild;
+
+  // 2. nodeValue 프로퍼티를 사용하여 텍스트 노드의 값을 변경
+  $textNode.nodeValue = 'World';
+  console.log($textNode.nodeValue); // World
+</script>
+</html>
